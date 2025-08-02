@@ -4,7 +4,7 @@
 
 Aspiring Cybersecurity & AI Engineer | Computer Science Undergrad @ Sri Sairam Institute of Technology  
 Webmaster @ IEEE Computer Society  
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/techstack/techstack-animated.gif">
 
 - 🔭 Currently building **AI-powered Firewalls** and **Sales Forecasting Systems**
 - 🌱 Learning Network Security, Machine Learning, and Smart App Development
