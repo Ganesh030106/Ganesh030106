@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 ## Hey there 👋 I'm Ganesh S
 
