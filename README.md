@@ -15,18 +15,18 @@ Webmaster @ IEEE Computer Society
 
 ### 🔗 Connect with me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-link)  
-[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/your-github)  
+[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ganesh030106)  
 [<img src="https://img.shields.io/badge/IEEE-CS-blue?style=for-the-badge&logo=ieee&logoColor=white"/>](https://www.ieee.org/)
 
 ---
 
 ### 🧠 I code in:
-<img height="40" src="https://img.icons8.com/color/48/python.png"/> <img height="40" src="https://img.icons8.com/color/48/c-programming.png"/> <img height="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/nodejs.png"/> <img height="40" src="https://img.icons8.com/color/48/react-native.png"/> <img height="40" src="https://img.icons8.com/color/48/firebase.png"/> <img height="40" src="https://img.icons8.com/color/48/mongodb.png"/>
+<img height="40" src="https://img.icons8.com/color/48/python.png"/> <img height="40" src="https://img.icons8.com/color/48/c-programming.png"/> <img height="40" <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/mongodb.png"/>
 
 ---
 
 ### 🧰 Tools I use:
-<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/pycharm.png"/> <img height="40" src="https://img.icons8.com/color/48/git.png"/> <img height="40" src="https://img.icons8.com/dusk/64/anaconda.png"/> <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/> <img height="40" src="https://img.icons8.com/doodle/48/adobe-photoshop.png"/> <img height="40" src="https://img.icons8.com/color/48/notion--v1.png"/> <img height="40" src="https://img.icons8.com/color/48/netlify.png"/> <img height="40" src="https://img.icons8.com/color/48/vercel.png"/>
+<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/pycharm.png"/> <img height="40" src="https://img.icons8.com/color/48/git.png"/> <img height="40" src="https://img.icons8.com/dusk/64/anaconda.png"/> <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/>  <img height="40" src="https://img.icons8.com/color/48/netlify.png"/> <img height="40" src="https://img.icons8.com/color/48/vercel.png"/>
 
 ---
 
