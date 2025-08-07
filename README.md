@@ -26,7 +26,7 @@ Webmaster @ IEEE Computer Society
 ---
 
 ### 🧰 Tools I use:
-<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/pycharm.png"/> <img height="40" src="https://img.icons8.com/color/48/git.png"/> <img height="40" src="https://img.icons8.com/dusk/64/anaconda.png"/> <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/>  <img height="40" src="https://img.icons8.com/color/48/netlify.png"/> <img height="40" src="https://img.icons8.com/color/48/vercel.png"/>
+<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/pycharm.png"/> <img height="40" src="https://img.icons8.com/color/48/git.png"/> <img height="40" src="https://img.icons8.com/dusk/64/anaconda.png"/> <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/> <img height="40" src="https://img.icons8.com/color/48/netlify.png"/> <img height="40" src="https://img.icons8.com/color/48/vercel.png"/>
 
 ---
 
