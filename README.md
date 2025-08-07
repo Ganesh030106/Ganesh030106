@@ -21,7 +21,7 @@ Webmaster @ IEEE Computer Society
 ---
 
 ### 🧠 I code in:
-<img height="40" src="https://img.icons8.com/color/48/python.png"/> <img height="40" src="https://img.icons8.com/color/48/c-programming.png"/> <img height="40" <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/mongodb.png"/>
+<img height="40" src="https://img.icons8.com/color/48/python.png"/> <img height="40" src="https://img.icons8.com/color/48/c-programming.png"/> <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/mongodb.png"/>
 
 ---
 
