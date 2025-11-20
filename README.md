@@ -2,8 +2,8 @@
 
 ## Hey there 👋 I'm Ganesh S
 
-Aspiring Cybersecurity & AI Engineer | Computer Science Undergrad @ Sri Sairam Institute of Technology  
-Webmaster @ IEEE Computer Society  
+Data Analyst | Computer Science Undergrad @ Sri Sairam Institute of Technology  
+Aspiring Cybersecurity & AI Engineer 
 <img align="right" width="370" height="290" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/techstack/techstack-animated.gif">
 
 - 🔭 Currently building **AI-powered Firewalls** and **Sales Forecasting Systems**
@@ -14,37 +14,36 @@ Webmaster @ IEEE Computer Society
 - ⚡ Fun fact: I’m obsessed with building things that actually protect and empower people!
 
 ### 🔗 Connect with me  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-link)  
-[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ganesh030106)  
-[<img src="https://img.shields.io/badge/IEEE-CS-blue?style=for-the-badge&logo=ieee&logoColor=white"/>](https://www.ieee.org/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ganesh316/) [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ganesh030106)  
 
 ---
 
 ### 🧠 I code in:
-<img height="40" src="https://img.icons8.com/color/48/python.png"/> <img height="40" src="https://img.icons8.com/color/48/c-programming.png"/> <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/mongodb.png"/>
+ <img height="40" src="https://img.icons8.com/color/48/c-programming.png"/> <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/python.png"/><img height="40" src="https://img.icons8.com/color/48/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/mongodb.png"/>
 
 ---
 
 ### 🧰 Tools I use:
-<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/pycharm.png"/> <img height="40" src="https://img.icons8.com/color/48/git.png"/> <img height="40" src="https://img.icons8.com/dusk/64/anaconda.png"/> <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/> <img height="40" src="https://img.icons8.com/color/48/netlify.png"/> <img height="40" src="https://img.icons8.com/color/48/vercel.png"/>
+<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/pycharm.png"/> <img height="40" src="https://img.icons8.com/color/48/git.png"/> <img height="40" src="https://img.icons8.com/color/48/canva.png"/> <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/> <img height="40" src="https://img.icons8.com/deco/power-bi.png"/><img height="40" src="https://img.icons8.com/color/48/netlify.png"/> <img height="40" src="https://img.icons8.com/color/48/vercel.png"/>
 
 ---
 
-### 🖥️ Workspace Setup
-<img height="30" src="https://img.shields.io/badge/Windows-11-%230078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
+<!-- 🖥️ Workspace Setup -->
+<!-- <img height="30" src="https://img.shields.io/badge/Windows-11-%230078D6?style=for-the-badge&logo=windows&logoColor=white"/>   -->
+<!-- <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>   -->
+<!-- <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>   -->
 
----
+<!-- --- -->
 
 ### 📊 GitHub Stats
 
-![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=react&hide=issues,contribs)
+![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh030106&show_icons=true&theme=react&hide=issues,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=react)
 
-[![Ganesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_S_36?theme=dark&font=Marcellus&ext=contest)
 
+[![Ganesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganesh030106&bg_color=000000&color=ffffff&line=26a641&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### 🚀 Featured Projects
