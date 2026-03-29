@@ -12,7 +12,7 @@ Aspiring Cybersecurity & AI Engineer
 - ⚡ Fun fact: I’m obsessed with building things that actually protect and empower people!
 
 ### 🔗 Connect with me  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ganesh316/) [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ganesh030106)  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ganesh316/) [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Ganesh030106)[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>](https://portfolio-ganesh-s.vercel.app/)
 
 ---
 
