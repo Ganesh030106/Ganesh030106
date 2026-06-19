@@ -95,7 +95,6 @@ Computer Science Undergrad @Sri Sairam Institute of Technology
   <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
   <img height="40" src="https://img.icons8.com/color/48/netlify.png"/> <img height="40" src="https://img.icons8.com/color/48/vercel.png"/>
- 
 </p>
 
 ---
@@ -107,6 +106,7 @@ Computer Science Undergrad @Sri Sairam Institute of Technology
   <img height="40" src="https://img.icons8.com/color/48/canva.png"/>
   <img height="40" src="https://img.icons8.com/deco/power-bi.png"/>
 </p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -118,6 +118,8 @@ Computer Science Undergrad @Sri Sairam Institute of Technology
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh030106&" alt="Ganesh030106" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_S_36?theme=dark&font=Marcellus&ext=contest)
+
+---
 
 [![Ganesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganesh030106&bg_color=000000&color=ffffff&line=26a641&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -135,5 +137,16 @@ Computer Science Undergrad @Sri Sairam Institute of Technology
 | 📈 Sales Forecasting (MINDFULAI) | Python · Prophet · Time Series | Anomaly detection + time-series forecasting pipeline built during internship |
 
 ---
+<div align="center">
+  
+```
 
-> **“Building solutions that defend, detect, and deliver!”**
+  "Building solutions that defend, detect,and deliver." 🚀
+
+```
+ 
+*Thanks for stopping by — feel free to star a repo or drop a message!*
+ 
+</div>
+
+
